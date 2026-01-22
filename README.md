@@ -1,5 +1,5 @@
 # 🚀 Customer Churn & Lifetime Value Prediction  
-### End-to-End Machine Learning & Business Decision Dashboard
+## End-to-End Machine Learning & Business Decision Dashboard
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikitlearn&logoColor=white)
@@ -10,7 +10,7 @@
 <img width="436" height="293" alt="image" src="https://github.com/user-attachments/assets/c48e7f88-f723-481b-afa4-ec343de4d2ac" />
 
 ---
-### Power BI Dashboard
+## Power BI Dashboard
 <img width="851" height="481" alt="image" src="https://github.com/user-attachments/assets/b5e4f22b-902d-4ad1-a1e7-8e5534c1cda8" />
 
 
